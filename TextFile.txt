@@ -1,0 +1,5 @@
+Link: https://s3.amazonaws.com/metro-extracts.mapzen.com/bengaluru_india.osm.bz2
+Name of the City: Bengaluru
+Description: Bengaluru is the capital city of Karnataka state in India and the third most populous city in India. 
+Reason for choosing Bangalore: I stay in Bangalore. The city is densely populated and a major chunk of the population works in the IT industry.
+							   Lot of technology users has a direct impact on the maps users and their ability to tag areas. 
